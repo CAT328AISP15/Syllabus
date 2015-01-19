@@ -1,4 +1,5 @@
-# Syllabus CAT 328: Programming for Game: Artificial Intelligence
+# Syllabus CAT 328: 
+# Programming for Game: Artificial Intelligence
 * **Katherine Bennett, Assistant Professor**
 * **Email: Katherine_Bennett@bloomfield.edu**
 * **Office Hours: Tues Thur Fri 9-9:45 am, 2:30-3pm**
@@ -14,7 +15,7 @@ Artificial Intelligence is essential to make your code life-like. The course int
 Students will achieve a well-rounded proficiency in technical concepts including: vector math, physics, steering, path planning, and evolution;  fluency in industry standard commercial hardware, software (IDE’s) and professional workflows (Git & Version Control); 
 • Creative Problem Solving, iteration, tenacity, critical thinking
 
-• research (This includes visual, materials, and technological research)
+• Research (This includes visual, materials, and technological research)
 
 ###Course Goals
 Students will:
@@ -187,15 +188,15 @@ Performance and attendance of the student has been such that course requirements
 
 ### Exercises
 
-	Exercises will be assigned. They will begin in class and be due the next week, unless otherwise specified. They will cover the basic algorithms and principles associated with the class. Exercises are to be submitted on GitHub.
+Exercises will be assigned. They will begin in class and be due the next week, unless otherwise specified. They will cover the basic algorithms and principles associated with the class. Exercises are to be submitted on GitHub.
 
 ### Projects:
-	Project 1: Create experimental platform with agents and sensors
-	Project 2: Implement pathfinding and evolution to Project 1
-	Project 3: Final Project - Build a simple game or project with everything learned.
+Project 1: Create experimental platform with agents and sensors
+Project 2: Implement pathfinding and evolution to Project 1
+Project 3: Final Project - Build a simple game or project with everything learned.
 
 
-### Required Resources
+### Required Resources (links forthcoming)
 
 
 ### Technology in the Classroom
