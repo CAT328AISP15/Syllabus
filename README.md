@@ -198,6 +198,8 @@ Project 3: Final Project - Build a simple game or project with everything learne
 
 ### Required Resources (links forthcoming)
 
+• http://icm.shiffman.net/
+
 
 ### Technology in the Classroom
 
