@@ -199,6 +199,7 @@ Project 3: Final Project - Build a simple game or project with everything learne
 ### Required Resources (links forthcoming)
 
 • http://icm.shiffman.net/
+• https://vimeo.com/channels/natureofcode/videos/page:1/sort:preset
 
 
 ### Technology in the Classroom
@@ -231,6 +232,16 @@ Students who believe they are eligible for course accommodations under the ADA o
 		- GitHub Account. Email me your handle through your Bloomfield Email
 		- Create a Processing sketch with randomly moving graphics using  random, probability and Perlin Noise
 
+- Wednesday January 28th - Visiting Artist [Shannon Carroll](http://shannonleecarroll.com)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Shannon Carroll is an award-winning artist and media producer based in Brooklyn, 
+		NY. She works with media to foster empathy and engagement. Her creative roots lie 
+		in photography, and her current work involves design, interactive media, digital 
+		storytelling and documentary filmmaking. Shannon is Creative Director at Vivid 
+		Story, a creative studio specializing in video, photography and design for causes that 
+		matter.
+
 - Week 2:  Jan 27 - Vector Math, Motion
 	- Read: 
 		- NoC: Ch 2
@@ -255,6 +266,17 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- Do: 
 		- Project 1: Create a Safari, or Koi Pond
 
+- Wednesday February 18th - Visiting Artist [Hanan Harchol](http://jewishfoodforthought.com)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Hanan Harchol is a multimedia visual artist, born in Israel, who moved to the U.S. as 
+		a child. Harchol creates paintings, drawings, animations, videos, and multimedia 
+		installations that use family narratives to explore the human condition from a 
+		psychological, philosophical, and existential perspective. Harchol’s animated series 
+		“Jewish Food For Thought” combines Jewish wisdom on topics such as apology, 
+		forgiveness, gratitude, love, fear, humility with his artmaking (i.e. animations of his 
+		Israeli nuclear physicist father and son, having arguments).
+
 - Week 6: Feb 24th - Steering II: Simple Path Follow, Collision Avoidance, Wall Follow
 	- Read:
 		- PGAI: Ch 3
@@ -271,10 +293,37 @@ Students who believe they are eligible for course accommodations under the ADA o
 
 - March 9 - 13 Spring Break
 
+- Wednesday March 18th - Visiting Artist [Chris Doyle](http://chrisdoylestudio.com)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Chris Doyle is an interdisciplinary artist based in Brooklyn, New York. His recent 
+		work explores the cultural construction of landscape. His work includes temporary 
+		and permanent projects in the public sphere BRIGHT CANYON, presented by the 
+		Times Square Alliance (2014); LEAP, presented by Creative Time in Columbus Circle 
+		(2000) and Commutable, presented by the Public Art Fund on the Lower East Side 
+		(1996), all in New York City. His work has also been shown at The Brooklyn 
+		Museum of Art, The Queens Museum of Art, P.S.1 Museum of Contemporary Art, the 
+		Kupferstichkabinett Berlin, Germany, and as part of the New York Video Festival at 
+		Lincoln Center.
+
 - Week 8: March 17th - State Machines & Simple Soccer 
 	- Read:
 		- PGAI: Ch 4
 	- Do: TBA	
+
+- Wednesday April 8th - Visiting Artist [Katherine Bennett](http://www.katherinebennett.net)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Katherine Bennett, an electronic artist with a background in interactive light 
+		environments, engrossed herself in programming and sound to widen her studio 
+		practice. Her work explores the social relationships engendered when time is 
+		blurred, frozen, collapsed and expanded. Her interests pertain to the non-physical 
+		presence of thought and memory. Bennett widens notions of habitable spaces: 
+		involving the intangible spaces within the mind and the liminal spaces created by 
+		digital communities. She uses sound and light as visceral rubble to foster 
+		relationships across these spaces, creating a presence across a trajectory of time. 
+		Her latest environments deal with the terrain of memory - it's absence, degradation 
+		and the new space that this loss provides for new experiences.
 
 - Week 9: March 24th - Path Planning & Graph Theory
 	- Read:
