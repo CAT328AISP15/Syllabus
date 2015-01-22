@@ -71,7 +71,7 @@ Class will be a mix of lectures, exercises, code challenges and projects, critiq
 
 • Talk to me in person about issues or problems
 
-• Consult the github account for the class at least once a week for up to date information 
+• Consult the [github account](https://github.com/CAT117SP15/Syllabus) for the class at least once a week for up to date information 
 
 • Come to class on time and be familiar with the current class topics, and be ready to answer or ask questions and participate in discussions
 
@@ -158,6 +158,18 @@ Homework projects will be turned in via GitHub. GitHub is a web hosting service 
 Time. Time management is everything. You will need it to have reasonable accomplishments in this class. The material is cumulative. The readings are essential. Writing code is the only way to make progress and to fully synthesize the material. It becomes evident quite quickly. Develop excellent time management. You will need 8-10 hours outside of class to succeed.  
 Projects are not group projects.
 
+#### How to Submit Assignments via GitHub
+
+
+Do the follow these steps for each assignment:
+
+1. To start, [**fork** the repository][forking].
+1. [**Clone**][ref-clone] the repository to your computer.
+1. Modify the files and [**commit**][ref-commit] changes to complete your solution.
+1. [**Push**][ref-push]/sync the changes up to GitHub.
+1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
+
+
 ### Grading
 
 - Exercises  35%
@@ -230,7 +242,7 @@ Students who believe they are eligible for course accommodations under the ADA o
 		 - Intro + Ch 1
 	- Do: 
 		- GitHub Account. Email me your handle through your Bloomfield Email
-		- Create a Processing sketch with randomly moving graphics using  random, probability and Perlin Noise
+		- Exercise 1: Agents 
 
 - Wednesday January 28th - Visiting Artist [Shannon Carroll](http://shannonleecarroll.com)
 	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
