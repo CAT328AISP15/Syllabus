@@ -210,8 +210,9 @@ Project 3: Final Project - Build a simple game or project with everything learne
 
 ### Required Resources (links forthcoming)
 
-• http://icm.shiffman.net/
-• https://vimeo.com/channels/natureofcode/videos/page:1/sort:preset
+ • [Learning Processing (Daniel Shiffman, video lectures)](http://icm.shiffman.net/)
+
+• [Nature of Code (Daniel Shiffman, video lectures)](https://vimeo.com/channels/natureofcode/videos/page:1/sort:preset)
 
 
 ### Technology in the Classroom
@@ -232,6 +233,37 @@ Please see the Student Handbook for further information regarding this, includin
 Bloomfield College is committed to assuring equal educational opportunity and full participation for all students.  The mission of the Office for Students with Disabilities is to provide individuals with learning differences (a.ka. disabilities) the same access to programs and activities as other students.  We assist students to maximize their potential while helping them develop and maintain independence.
 
 Students who believe they are eligible for course accommodations under the ADA or Section 504 or have had accommodations or modifications in the past, should contact the Office for Students with Disabilities at 973-748-9000 or Margaret_Adams@bloomfield.edu to arrange for appropriate accommodations and to obtain an accommodations letter, if applicable.  Faculty can provide course accommodations/modifications only after receipt of an approved accommodations letter from the Office for Students with Disabilities. Accommodation letters can be provided to qualified students at any time during the semester, but grades earned before the faculty receives the letter cannot be changed.
+
+
+### Other Support Services for students
+
+·      [Personal Counseling:](http://bloomfield.edu/content/personal-counseling) If you are struggling with a personal issue and need to speak with someone, Bloomfield College offers free and confidential counseling to all students. For more information, contact Sharon McNulty, the Director of Personal Counseling, at Sharon_McNulty@bloomfield.edu.
+
+·      [Health Services:](http://bloomfield.edu/content/health-services) If you are feeling ill, make an appointment at the College’s health services office. For more information contact Robert Martinez at Robert_Martinez@bloomfield.edu.
+
+
+·      The Student Support Services (SSS) Grant was awarded to Bloomfield College in the 2000-2001 academic year. The program was named [STAR (Students To Achieve Renown)](http://bloomfield.edu/academics/academic-centers/special-programs/star). The program fosters the attainment of academic and personal success via student centered activities and services so that each participant may successfully acquire their baccalaureate degree.
+
+What is STAR?
+
+The STAR Program is a TRIO federally funded project that endeavors to increase the retention and graduation rates of its participants while facilitating the process of transition from one academic level to the next. A comprehensive student support services program that provides opportunities for academic development, assists students with basic college requirements, and serves to guide and motivate students towards the successful completion of their college education. In particular, the project aims to advance objectives related to needs assessment, good academic standing, persistence and graduation.
+
+    Academic Advising and Personal Counseling
+    Mentoring and Coaching
+    Instruction in Academic Foundation Courses
+    Academic Skill Building & Study Skills Workshops
+    Financial Literacy Workshops                                                                                                        
+    Math, English & Technology Tutorials
+    Pre-Nursing Support Group
+    Student-Staff Roundtables
+    Career Guidance
+    Participant Computer Lab
+    Leadership & Cultural Enrichment Activities
+    Grant Aid to Pell-Eligible Students
+    Assistance in understanding and completing your FAFSA
+    Graduate/Professional School Enrollment Assistance
+
+    For more information, contact Christina_Dilkes@bloomfield.edu. 
 
 
 ### Schedule
@@ -270,13 +302,16 @@ Students who believe they are eligible for course accommodations under the ADA o
 	- Read:
 		- NoC: Ch 4
 	- Do:	 TBA
+		- Fill out the MidTerm Self Assessment
 
 - Week 5: Feb 17th - Steering I: Seek, Flee, Face/Align, Arrive
+**Midterm Self-Assessment Due**
 	- Read:
 		- PGAI: Ch 3
 		- NoC: Ch 6
 	- Do: 
 		- Project 1: Create a Safari, or Koi Pond
+
 
 - Wednesday February 18th - Visiting Artist [Hanan Harchol](http://jewishfoodforthought.com)
 	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
