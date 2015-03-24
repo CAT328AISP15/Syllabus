@@ -61,6 +61,17 @@ By the successful completion of this course, students will be able to:
 
 At the course level, the professor will evaluate student work (code) and progress through critique and written feedback. Students will evaluate how they progressed in a course. 
 
+Self-Assessment
+
+Students will evaluate their own progressed in a course in two ways: 1) A course evaluation form, which will be developed based on the course’s individual objectives. 2) Students will participate in a self reflection assignment due Week 7 & Week 13  or as otherwise noted. This written evaluation is worth 15 points and to be turned into me as a separate document. Please email it.
+
+• Critically analyze/evaluate how much time was spent learning syntax & structure, programming concepts vs. actually programming, and how does this reflect on the final quality of your end result. 
+
+• Comment on your AI and Processing successes and frustrations.
+
+• What would help you succeed better in this class - with respect to what you can do (time management, reading, studying, presence in class) and other resource that can be provided outside of class (study groups, speakers, workshops)? Please be specific.
+
+
 ###Course Structure
 
 Class will be a mix of lectures, exercises, code challenges and projects, critiques and Show & Tell. 
@@ -218,6 +229,7 @@ Project 3: Final Project - Build a simple game or project with everything learne
 - http://www.metanetsoftware.com/technique/tutorialA.html#toc
 - http://www.sevenson.com.au/actionscript/sat/
 - http://rocketmandevelopment.com/blog/separation-of-axis-theorem-for-collision-detection/
+- http://www.dyn4j.org/2010/01/sat/
 - http://booksite.elsevier.com/9781558605930/revisionnotes/MethodOfSeperatingAxes.pdf
 - https://www.khanacademy.org/computer-programming/polygon-collision-detector/6339295315755008
 - http://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169
