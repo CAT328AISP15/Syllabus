@@ -214,6 +214,17 @@ Project 3: Final Project - Build a simple game or project with everything learne
 
 • [Nature of Code (Daniel Shiffman, video lectures)](https://vimeo.com/channels/natureofcode/videos/page:1/sort:preset)
 
+• Collision Detection
+http://www.metanetsoftware.com/technique/tutorialA.html#toc
+http://www.sevenson.com.au/actionscript/sat/
+http://rocketmandevelopment.com/blog/separation-of-axis-theorem-for-collision-detection/
+http://booksite.elsevier.com/9781558605930/revisionnotes/MethodOfSeperatingAxes.pdf
+https://www.khanacademy.org/computer-programming/polygon-collision-detector/6339295315755008
+http://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169
+
+
+
+
 
 ### Technology in the Classroom
 
