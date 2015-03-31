@@ -219,7 +219,7 @@ Project 2: Implement pathfinding and evolution to Project 1
 Project 3: Final Project - Build a simple game or project with everything learned.
 
 
-### Required Resources (links forthcoming)
+### Required Resources 
 
  • [Learning Processing (Daniel Shiffman, video lectures)](http://icm.shiffman.net/)
 
@@ -234,6 +234,19 @@ Project 3: Final Project - Build a simple game or project with everything learne
 - https://www.khanacademy.org/computer-programming/polygon-collision-detector/6339295315755008
 - http://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169
 
+• Path Finding - Dijkstra's Algorithm
+- http://www.gamedev.net/page/resources/_/technical/artificial-intelligence/dijkstras-algorithm-shortest-path-r3872
+- http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
+
+• Path Finding - A* Algorithm
+- http://www.redblobgames.com/pathfinding/a-star/introduction.html (with animations)
+- http://www.policyalmanac.org/games/aStarTutorial.htm
+
+• Path Finding - overview
+- http://www.gamesitb.com/pathgraham.pdf
+- http://www.gamasutra.com/view/feature/131724/smart_move_intelligent_.php?page=4 (need to setup a free account)
+- http://ai-depot.com/Tutorial/PathFinding.html
+- http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/ (see lectures 16-18)
 
 
 
