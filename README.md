@@ -248,7 +248,22 @@ Project 3: Final Project - Build a simple game or project with everything learne
 - http://ai-depot.com/Tutorial/PathFinding.html
 - http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/ (see lectures 16-18)
 
+• Evolution 
+- http://www.karlsims.com/
+- http://karlsims.com/evolved-virtual-creatures.html
+- http://en.wikipedia.org/wiki/SimEarth
+- http://bossesforever.com/
+- http://hi-scor.es/darwin_defenders/
+- https://github.com/trflagg/DarwinDefenders
+- http://pcgbook.com/
+- http://eplex.cs.ucf.edu/papers/hastings_cig09.pdf
+- http://www.ai.rug.nl/~mwiering/thesis_westra.pdf
 
+
+http://gamasutra.com/blogs/MichaelMartin/20110830/90109/Using_a_Genetic_Algorithm_to_Create_Adaptive_Enemy_AI.php
+https://www.youtube.com/watch?v=X9D7FxB8cOk
+
+http://marketplace.xbox.com/en-US/Product/invAIders/66acd000-77fe-1000-9115-d80258550903
 
 
 ### Technology in the Classroom
