@@ -258,12 +258,9 @@ Project 3: Final Project - Build a simple game or project with everything learne
 - http://pcgbook.com/
 - http://eplex.cs.ucf.edu/papers/hastings_cig09.pdf
 - http://www.ai.rug.nl/~mwiering/thesis_westra.pdf
-
-
-http://gamasutra.com/blogs/MichaelMartin/20110830/90109/Using_a_Genetic_Algorithm_to_Create_Adaptive_Enemy_AI.php
+- http://gamasutra.com/blogs/MichaelMartin/20110830/90109/Using_a_Genetic_Algorithm_to_Create_Adaptive_Enemy_AI.php
 https://www.youtube.com/watch?v=X9D7FxB8cOk
-
-http://marketplace.xbox.com/en-US/Product/invAIders/66acd000-77fe-1000-9115-d80258550903
+- http://marketplace.xbox.com/en-US/Product/invAIders/66acd000-77fe-1000-9115-d80258550903
 
 
 ### Technology in the Classroom
